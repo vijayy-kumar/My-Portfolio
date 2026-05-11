@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 
 ## 🔗 Live Demo
 
-👉 (https://vijay-kumar0.github.io/My-Portfolio/)
+👉 (https://vijayy-kumar.github.io/My-Portfolio/)
 
 ---
 
