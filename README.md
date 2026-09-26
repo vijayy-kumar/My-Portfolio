@@ -101,7 +101,7 @@ A growing collection of certifications and online courses reflecting continuous 
 
 <div align="center">
 
-[**🔗 View Live Portfolio**](YOUR_PORTFOLIO_LINK) &nbsp;|&nbsp; [**💻 View Source Code**](https://github.com/vijayy-kumar)
+[**🔗 View Live Portfolio**](https://vijayy-kumar.netlify.app/) &nbsp;|&nbsp; [**💻 View Source Code**](https://github.com/vijayy-kumar)
 
 </div>
 
