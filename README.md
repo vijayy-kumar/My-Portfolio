@@ -9,9 +9,9 @@
 A modern, minimal, and responsive personal portfolio crafted to showcase my work, technical skills, projects, and journey in technology.
 
 [![Website](https://img.shields.io/badge/Live-Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://vijayy-kumar.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-vijayy--kumar-181717?style=for-the-badge&logo=github)](https://github.com/vijayy-kumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thevijaykumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thevijaykumar)
-[![Email](https://img.shields.io/badge/Email-imvksdr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imvksdr@gmail.com)
+[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijayy-kumar)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thevijaykumar)
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imvksdr@gmail.com)
 
 </div>
 
@@ -113,9 +113,9 @@ I'm always open to learning, building, and connecting with people interested in 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-@vijayy--kumar-181717?style=flat-square&logo=github)](https://github.com/vijayy-kumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@thevijaykumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thevijaykumar)
-[![Gmail](https://img.shields.io/badge/Email-imvksdr@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imvksdr@gmail.com)
+[![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vijayy-kumar)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thevijaykumar)
+[![Gmail](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imvksdr@gmail.com)
 
 </div>
 
